@@ -1,4 +1,6 @@
 # bashscript
+Hi there
+
 
  ### Welcome to my Bash Script Collection! 🚀
 
