@@ -7,7 +7,7 @@ Hi there
 This repository houses a variety of basic yet powerful Bash scripts designed to streamline your daily tasks and enhance productivity. 
 <p>🌟 Features</p>
 Versatile Scripts: A diverse set of scripts covering various use cases.
-Easy to Use: Clear, concise, and well-documented scripts that are easy to understand and integrate into your workflow.
+<p>Easy to Use: Clear, concise, and well-documented scripts that are easy to understand and integrate into your workflow.</p>
 Open Source: Free to use, modify, and share. Contributions are welcome!
  
 📚 How to Use
