@@ -17,13 +17,13 @@ Open Source: Free to use, modify, and share. Contributions are welcome!
 git clone  https://github.com/ravibalebilalu/bashscript.git
 
 
-<p>Navigate to the Directory:</p>
+- <p>Navigate to the Directory:</p>
 
  
 cd bashscript
 
 
-<p>Run a Script:</p>
+- <p>Run a Script:</p>
 
  
 ./script-name.sh
