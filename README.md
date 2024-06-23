@@ -11,7 +11,7 @@ Easy to Use: Clear, concise, and well-documented scripts that are easy to unders
 Open Source: Free to use, modify, and share. Contributions are welcome!
  
 📚 How to Use
-<p style="color:green;">1.Clone the Repository:</p>
+- <p style="color:green;">1.Clone the Repository:</p>
 
  
 git clone  https://github.com/ravibalebilalu/bashscript.git
