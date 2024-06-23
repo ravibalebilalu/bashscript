@@ -5,7 +5,7 @@ Hi there
  ### Welcome to my Bash Script Collection! 🚀
 
 This repository houses a variety of basic yet powerful Bash scripts designed to streamline your daily tasks and enhance productivity. 
-🌟 Features
+<p>🌟 Features</p>
 Versatile Scripts: A diverse set of scripts covering various use cases.
 Easy to Use: Clear, concise, and well-documented scripts that are easy to understand and integrate into your workflow.
 Open Source: Free to use, modify, and share. Contributions are welcome!
