@@ -1,10 +1,9 @@
 #!/bin/bash
 #break
 
-
 numbers=(22 45 34 67 34 43 60)
 #number to search
-number=600
+number=60
 echo "Searching......."
 sleep 1
  for (( i=0;i<${#numbers[*]};i++))
